@@ -1,0 +1,529 @@
+{
+  "avaliacao": {
+    "Jornada": 0,
+    "TotalTempoReacao": 45000,
+    "InicioAvaliacao": 1591286578833,
+    "FinalizadoAvaliacao": 1591286623833
+  },
+  "reacao": [
+    {
+      "InstanteReacao": 2247,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 72.5,
+      "CoordY": 368.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 1
+    },
+    {
+      "InstanteReacao": 4180,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 292.5,
+      "CoordY": 518,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 2
+    },
+    {
+      "InstanteReacao": 4996,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 135.5,
+      "CoordY": 365,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 3
+    },
+    {
+      "InstanteReacao": 6246,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 225,
+      "CoordY": 142.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 4
+    },
+    {
+      "InstanteReacao": 8596,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 290,
+      "CoordY": 293,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 5
+    },
+    {
+      "InstanteReacao": 9164,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 209,
+      "CoordY": 373,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 6
+    },
+    {
+      "InstanteReacao": 10794,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 69,
+      "CoordY": 147,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 7
+    },
+    {
+      "InstanteReacao": 11730,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 141.5,
+      "CoordY": 292.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 8
+    },
+    {
+      "InstanteReacao": 12529,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 57.5,
+      "CoordY": 593,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 9
+    },
+    {
+      "InstanteReacao": 12935,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 70,
+      "CoordY": 512.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 10
+    },
+    {
+      "InstanteReacao": 13330,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 222.5,
+      "CoordY": 593,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 11
+    },
+    {
+      "InstanteReacao": 14229,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 134.5,
+      "CoordY": 147,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 12
+    },
+    {
+      "InstanteReacao": 18264,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 290,
+      "CoordY": 147,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 13
+    },
+    {
+      "InstanteReacao": 18728,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 221.5,
+      "CoordY": 233.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 14
+    },
+    {
+      "InstanteReacao": 20111,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 64.5,
+      "CoordY": 293,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 15
+    },
+    {
+      "InstanteReacao": 21296,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 305.5,
+      "CoordY": 614.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 16
+    },
+    {
+      "InstanteReacao": 24328,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 219.5,
+      "CoordY": 295,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 17
+    },
+    {
+      "InstanteReacao": 24760,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 158,
+      "CoordY": 367,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 18
+    },
+    {
+      "InstanteReacao": 25512,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 308.5,
+      "CoordY": 444.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 19
+    },
+    {
+      "InstanteReacao": 26346,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 139.5,
+      "CoordY": 450,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 20
+    },
+    {
+      "InstanteReacao": 26812,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 55,
+      "CoordY": 507.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 21
+    },
+    {
+      "InstanteReacao": 27294,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 228.5,
+      "CoordY": 446,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 22
+    },
+    {
+      "InstanteReacao": 27995,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 63,
+      "CoordY": 129,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 23
+    },
+    {
+      "InstanteReacao": 28661,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 290,
+      "CoordY": 516.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 24
+    },
+    {
+      "InstanteReacao": 32952,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 226,
+      "CoordY": 515.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 25
+    },
+    {
+      "InstanteReacao": 34530,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 221,
+      "CoordY": 365,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 26
+    },
+    {
+      "InstanteReacao": 35145,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 132.5,
+      "CoordY": 374,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 27
+    },
+    {
+      "InstanteReacao": 35912,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 132.5,
+      "CoordY": 219,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 28
+    },
+    {
+      "InstanteReacao": 36845,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 211,
+      "CoordY": 153,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 29
+    },
+    {
+      "InstanteReacao": 39162,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 312.5,
+      "CoordY": 521,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 30
+    },
+    {
+      "InstanteReacao": 40796,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 218,
+      "CoordY": 221.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 31
+    },
+    {
+      "InstanteReacao": 41729,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 68.5,
+      "CoordY": 606,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 32
+    },
+    {
+      "InstanteReacao": 42714,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 301.5,
+      "CoordY": 294,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 33
+    },
+    {
+      "InstanteReacao": 43562,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 133,
+      "CoordY": 609.5,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 34
+    },
+    {
+      "InstanteReacao": 44348,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 223,
+      "CoordY": 284,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 35
+    },
+    {
+      "InstanteReacao": 44928,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 71.5,
+      "CoordY": 536,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 36
+    }
+  ],
+  "hardware": {
+    "UserAgentHw": "atentoapp/1.0.1 Mozilla/5.0 (Linux; Android 9; moto g(7) play Build/PPYS29.105-134-9; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
+    "LarguraDisplayHw": 360,
+    "ComprimentoDisplayHw": 756,
+    "X_RazaoPixelCm": 0,
+    "Y_RazaoPixelCm": 0,
+    "LoadJanelaHw": 0,
+    "Localizacao": "lat:-20.22552097 lon:-40.21692834"
+  },
+  "questionario": {
+    "ConfirmadoQuestionario": 1,
+    "FinalizadoQuestionario": 0
+  },
+  "respondido": [
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 35,
+      "PerguntaID": 21,
+      "InstanteRespondido": 1591286629236,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "SIM",
+      "OrdemResposta": 1
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 85,
+      "PerguntaID": 31,
+      "InstanteRespondido": 1591286629931,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "NÃO",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 87,
+      "PerguntaID": 32,
+      "InstanteRespondido": 1591286630544,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "NÃO",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 37,
+      "PerguntaID": 21,
+      "InstanteRespondido": 1591286631143,
+      "TipoResposta": "escolha",
+      "TextoResposta": "SIM",
+      "OrdemResposta": 1
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 40,
+      "PerguntaID": 22,
+      "InstanteRespondido": 1591286631763,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "BOM",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 46,
+      "PerguntaID": 23,
+      "InstanteRespondido": 1591286632709,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "REGULAR",
+      "OrdemResposta": 3
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 50,
+      "PerguntaID": 24,
+      "InstanteRespondido": 1591286633263,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "BOA",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 59,
+      "PerguntaID": 26,
+      "InstanteRespondido": 1591286634011,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "ÓTIMO",
+      "OrdemResposta": 1
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 76,
+      "PerguntaID": 27,
+      "InstanteRespondido": 1591286634760,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "ENTRE 7H E 8H",
+      "OrdemResposta": 3
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 55,
+      "PerguntaID": 25,
+      "InstanteRespondido": 1591286635476,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "BOA",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 271,
+      "PerguntaID": 74,
+      "InstanteRespondido": 1591286639562,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "27 a 44 anos",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 283,
+      "PerguntaID": 78,
+      "InstanteRespondido": 1591286640295,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "SIM",
+      "OrdemResposta": 1
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 295,
+      "PerguntaID": 83,
+      "InstanteRespondido": 1591286641044,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "SIM, 2 ou 3 sintomas",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 277,
+      "PerguntaID": 76,
+      "InstanteRespondido": 1591286641680,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "SIM, 1 sintoma",
+      "OrdemResposta": 1
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 282,
+      "PerguntaID": 77,
+      "InstanteRespondido": 1591286642329,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "NÃO",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 285,
+      "PerguntaID": 79,
+      "InstanteRespondido": 1591286643096,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "SIM",
+      "OrdemResposta": 1
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 288,
+      "PerguntaID": 80,
+      "InstanteRespondido": 1591286643694,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "NÃO",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 289,
+      "PerguntaID": 81,
+      "InstanteRespondido": 1591286644393,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "SIM",
+      "OrdemResposta": 1
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 298,
+      "PerguntaID": 86,
+      "InstanteRespondido": 1591286645095,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "NAO",
+      "OrdemResposta": 2
+    },
+    {
+      "JustificativaRespondido": "",
+      "RespostaID": 291,
+      "PerguntaID": 82,
+      "InstanteRespondido": 1591286645977,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "SIM",
+      "OrdemResposta": 1
+    }
+  ]
+}

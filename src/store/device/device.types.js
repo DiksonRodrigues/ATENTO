@@ -1,0 +1,3 @@
+export default {
+  SET_DEVICE_ORIENTATION: 'SET_DEVICE_ORIENTATION',
+};

@@ -1,0 +1,379 @@
+{
+  "avaliacao": {
+    "Jornada": 1,
+    "IdentificadorUnico": "2d13b396-82a7-44ce-acc3-4d83386058dd",
+    "ColaboradorId": 524,
+    "ColaboradorMatricula": "00747559279",
+    "TotalTempoReacao": 41532,
+    "InicioAvaliacao": 1603687933573,
+    "FinalizadoAvaliacao": 1603687975105,
+    "Conectividade": "ONLINE",
+    "DataEnvio": 1603687983718
+  },
+  "reacao": [
+    {
+      "InstanteReacao": 1437,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 257,
+      "CoordY": 706,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 1
+    },
+    {
+      "InstanteReacao": 3040,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 85,
+      "CoordY": 386,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 2
+    },
+    {
+      "InstanteReacao": 4375,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 311,
+      "CoordY": 687,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 3
+    },
+    {
+      "InstanteReacao": 5931,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 320,
+      "CoordY": 474,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 4
+    },
+    {
+      "InstanteReacao": 6313,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 250,
+      "CoordY": 333,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 5
+    },
+    {
+      "InstanteReacao": 6748,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 252,
+      "CoordY": 407,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 6
+    },
+    {
+      "InstanteReacao": 7114,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 179,
+      "CoordY": 410,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 7
+    },
+    {
+      "InstanteReacao": 7416,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 164,
+      "CoordY": 337,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 8
+    },
+    {
+      "InstanteReacao": 7767,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 311,
+      "CoordY": 246,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 9
+    },
+    {
+      "InstanteReacao": 8300,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 313,
+      "CoordY": 405,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 10
+    },
+    {
+      "InstanteReacao": 9186,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 81,
+      "CoordY": 559,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 11
+    },
+    {
+      "InstanteReacao": 9439,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 85,
+      "CoordY": 629,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 12
+    },
+    {
+      "InstanteReacao": 11525,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 313,
+      "CoordY": 626,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 13
+    },
+    {
+      "InstanteReacao": 12524,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 82,
+      "CoordY": 490,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 14
+    },
+    {
+      "InstanteReacao": 14195,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 103,
+      "CoordY": 323,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 15
+    },
+    {
+      "InstanteReacao": 14781,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 255,
+      "CoordY": 407,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 16
+    },
+    {
+      "InstanteReacao": 16921,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 96,
+      "CoordY": 565,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 17
+    },
+    {
+      "InstanteReacao": 17622,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 262,
+      "CoordY": 246,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 18
+    },
+    {
+      "InstanteReacao": 19441,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 169,
+      "CoordY": 409,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 19
+    },
+    {
+      "InstanteReacao": 19910,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 325,
+      "CoordY": 302,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 20
+    },
+    {
+      "InstanteReacao": 21244,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 239,
+      "CoordY": 714,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 21
+    },
+    {
+      "InstanteReacao": 21648,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 250,
+      "CoordY": 642,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 22
+    },
+    {
+      "InstanteReacao": 22144,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 173,
+      "CoordY": 630,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 23
+    },
+    {
+      "InstanteReacao": 22580,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 170,
+      "CoordY": 553,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 24
+    },
+    {
+      "InstanteReacao": 30349,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 88,
+      "CoordY": 493,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 25
+    },
+    {
+      "InstanteReacao": 31883,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 247,
+      "CoordY": 335,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 26
+    },
+    {
+      "InstanteReacao": 32585,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 173,
+      "CoordY": 331,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 27
+    },
+    {
+      "InstanteReacao": 34542,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 89,
+      "CoordY": 706,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 28
+    },
+    {
+      "InstanteReacao": 35092,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 93,
+      "CoordY": 563,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 29
+    },
+    {
+      "InstanteReacao": 35508,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 255,
+      "CoordY": 556,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 30
+    },
+    {
+      "InstanteReacao": 36077,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 170,
+      "CoordY": 709,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 31
+    },
+    {
+      "InstanteReacao": 38599,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 94,
+      "CoordY": 262,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 32
+    },
+    {
+      "InstanteReacao": 39601,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 243,
+      "CoordY": 253,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 33
+    },
+    {
+      "InstanteReacao": 40320,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 333,
+      "CoordY": 405,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 34
+    },
+    {
+      "InstanteReacao": 40854,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 69,
+      "CoordY": 339,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 35
+    },
+    {
+      "InstanteReacao": 41438,
+      "CorReacao": "verde",
+      "StatusReacao": 1,
+      "CoordX": 257,
+      "CoordY": 495,
+      "NumeroReacao": 0,
+      "NumeroSequencia": 36
+    }
+  ],
+  "hardware": {
+    "Hardware": "mobile",
+    "UserAgentHw": "atentoappv3/1.7.2.202010131 Mozilla/5.0 (Linux; Android 10; SM-A505GT Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.99 Mobile Safari/537.36",
+    "LarguraDisplayHw": 411,
+    "ComprimentoDisplayHw": 891,
+    "X_RazaoPixelCm": 0,
+    "Y_RazaoPixelCm": 0,
+    "LoadJanelaHw": 0,
+    "Localizacao": "lat:0 lon:0"
+  },
+  "questionario": {
+    "ConfirmadoQuestionario": 1,
+    "FinalizadoQuestionario": 0
+  },
+  "respondido": [
+    {
+      "RespostaID": 28,
+      "PerguntaID": 11,
+      "InstanteRespondido": 1603687980807,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "PÉSSIMA",
+      "OrdemResposta": 5
+    },
+    {
+      "RespostaID": 30,
+      "PerguntaID": 12,
+      "InstanteRespondido": 1603687981609,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "NÃO",
+      "OrdemResposta": 2
+    },
+    {
+      "RespostaID": 34,
+      "PerguntaID": 14,
+      "InstanteRespondido": 1603687982427,
+      "TipoResposta": "objetiva",
+      "TextoResposta": "NÃO",
+      "OrdemResposta": 2
+    }
+  ]
+}
